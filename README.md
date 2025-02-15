@@ -53,7 +53,7 @@ This is a simple C++ project for managing bank accounts. It allows users to:
 
 ---
 
-![Bank Management System Demo](output.png)
+![Bank Management System Demo](Output.png)
 
 ## Project Structure
 - `CMakeLists.txt`: CMake configuration file.
